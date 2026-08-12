@@ -1,4 +1,4 @@
-# ⚡ Aegis Watch — AI Powered Machine Health Guardian
+#  Aegis Watch — AI Powered Machine Health Guardian
 
 Premium industrial dashboard: dark blue + orange glassmorphism theme, gauges,
 charts, and 7 full pages, built modularly so your real ML model and real
