@@ -1,5 +1,23 @@
-#  Aegis Watch — AI Powered Machine Health Guardian
+Aegis Watch — AI Powered Machine Health Guardian
+How AEGIS Sentinel Works
 
+1. Continuous Machine Health Monitoring
+Sensors collect machine data such as vibration, temperature, electrical current, and acoustic signals to monitor the health of industrial equipment and detect abnormal behaviour.
+ 
+2. Real-Time Edge AI Analysis
+The collected data is processed locally using an Edge AI model to identify unusual patterns and potential faults without depending entirely on cloud connectivity.
+
+3. Fault Prediction and Identification
+The model analyzes machine behaviour to estimate failure risk and identify probable issues, such as overheating, excessive vibration, or bearing wear, enabling timely maintenance.
+
+4. Voice-Guided Maintenance Assistance
+A voice assistant communicates detected issues, their severity, and recommended actions in simple language, with potential support for English and Hindi.
+
+5. Autonomous Preventive Action
+Based on predefined safety rules, the system can recommend or simulate actions such as cooling activation, load reduction, or controlled shutdown to help prevent equipment damage.
+
+6. Monitoring Dashboard
+A dashboard displays machine health, risk levels, sensor trends, fault alerts, and recommended actions, helping operators monitor equipment and plan maintenance efficiently.
 Premium industrial dashboard: dark blue + orange glassmorphism theme, gauges,
 charts, and 7 full pages, built modularly so your real ML model and real
 data can be dropped in later.
